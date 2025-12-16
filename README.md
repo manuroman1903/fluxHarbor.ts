@@ -117,9 +117,9 @@ MIT License
 
 ## Author
 
-GitHub: https://github.com/your-handle  
-Public contact (email): your-name@proton.me  
-Public contact (X): https://x.com/your-handle  
+GitHub: https://github.com/manuroman1903
+Public contact (email): baddies.slimmer-0o@icloud.com
+Public contact (X): https://x.com/goncharovadash4
 
 ---
 
@@ -132,25 +132,25 @@ To exercise Base tooling in a non-production environment, several reference cont
 **Explorer:** https://sepolia.basescan.org  
 
 **Contract #1 address:**  
-your_adress  
+0x2665e50af90838c6d5ea851d38951912d71e2dda
 
 Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code  
+- https://sepolia.basescan.org/address/0x2665e50af90838c6d5ea851d38951912d71e2dda
+- https://sepolia.basescan.org/0x2665e50af90838c6d5ea851d38951912d71e2dda/0#code  
 
-**Contract #2 address (optional):**  
-your_adress  
-
-Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code  
-
-**Contract #3 address (optional):**  
-your_adress  
+**Contract #2 address:**  
+0x9f6a76959690c498f0c278f46673cf45bd3381e3
 
 Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code  
+- https://sepolia.basescan.org/address/0x9f6a76959690c498f0c278f46673cf45bd3381e3
+- https://sepolia.basescan.org/0x9f6a76959690c498f0c278f46673cf45bd3381e3/0#code  
+
+**Contract #3 address:**  
+0xf0856145859fc921a5015abf355ef27647a72442
+
+Deployment and verification:
+- https://sepolia.basescan.org/address/0xf0856145859fc921a5015abf355ef27647a72442
+- https://sepolia.basescan.org/0xf0856145859fc921a5015abf355ef27647a72442/0#code  
 
 These testnet deployments help confirm Base compatibility, account abstraction–friendly flows, and onchain read behavior prior to any Base Mainnet usage.
 
