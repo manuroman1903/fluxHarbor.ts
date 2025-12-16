@@ -118,7 +118,9 @@ MIT License
 ## Author
 
 GitHub: https://github.com/manuroman1903
+
 Public contact (email): baddies.slimmer-0o@icloud.com
+
 Public contact (X): https://x.com/goncharovadash4
 
 ---
